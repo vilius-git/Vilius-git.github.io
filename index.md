@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/vilius-git/Vilius-git.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This should include your name, a photo, your title and a paragraph or two about who you are, what you’ve done, and where you’d like to go next. Don’t be afraid to dive into deeper detail on your portfolio, spend meaningful time developing your narrative and telling your story. This is also an important part of developing your brand. Discover what makes you unique and stand out from the rest and share that with your readers!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact Me
+
+Every successful portfolio will have a section where a viewer can contact you. At the very least, make sure your LinkedIn, GitHub, and Email address are available forms of contact.
+
+# Projects 
+
+Your projects section is the main reason you have a portfolio in the first place, so you’ll want to make this section POP! Unlike your resume, you can display the full list of your programming projects, however, you’ll still want to highlight a select few. Get your viewers excited about your projects by including quick video demos, GIFS, or images of your projects.
+
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
+- Project 8
+- Project 9
+- Project 10
 
 ### Markdown
 
