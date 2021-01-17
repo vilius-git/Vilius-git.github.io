@@ -5,6 +5,8 @@ This should include your name, a photo, your title and a paragraph or two about 
 # Contact Me
 
 Every successful portfolio will have a section where a viewer can contact you. At the very least, make sure your LinkedIn, GitHub, and Email address are available forms of contact.
+Email: viliussmilinskas@gmail.com
+Linkedin: https://www.linkedin.com/in/vilius-smilinskas/
 
 # Projects 
 
@@ -20,35 +22,3 @@ Your projects section is the main reason you have a portfolio in the first place
 - Project 8
 - Project 9
 - Project 10
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vilius-git/Vilius-git.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
