@@ -1,4 +1,5 @@
 # About (To be completed)
+![A picture of me](my-picture.png)
 
 This should include your name, a photo, your title and a paragraph or two about who you are, what you’ve done, and where you’d like to go next. Don’t be afraid to dive into deeper detail on your portfolio, spend meaningful time developing your narrative and telling your story. This is also an important part of developing your brand. Discover what makes you unique and stand out from the rest and share that with your readers!
 
