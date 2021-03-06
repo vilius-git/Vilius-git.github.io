@@ -1,3 +1,5 @@
+[# Projects](./project.html).
+
 # About me
 ![A picture of me](my-picture.png)
 
