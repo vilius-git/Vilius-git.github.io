@@ -8,4 +8,3 @@ My journey with Data started when working at the First Baptist Church of Winderm
 Throughout my studies I have most focused on develompent through Python, with several projects completed with R. During my courses I covered concepts starting from Statistical Methods and Analysis, Data Wrangling, Exploratative Data Analysis, Predictive Analytics, Data Visualization and Storytelling, Data Mining, Machine Learning and Deep Learning.
 Moving forward I would like to put my Master's to work in a position that strengthens my skills and allows me to boost any organization I join. 
 
-----
